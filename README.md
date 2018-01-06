@@ -1,6 +1,6 @@
 # Goals-React
 
-Hello World for React
+# Hello World for React
 
-# Install all packages
-# Execute yarn start
+Install all packages(npm install)
+Execute yarn start
